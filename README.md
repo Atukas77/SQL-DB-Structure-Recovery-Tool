@@ -4,7 +4,6 @@ The program:
 Identifies which tables in the database were combined into a new table via union or Cartesian product.
 Restores the original tables by removing the extraneous table while preserving the detected source tables.
 Handles cases where no such relationships exist and outputs "NO MATCH" accordingly.
-Installation
 
 Prerequisites:
 Ensure you have the following installed:
